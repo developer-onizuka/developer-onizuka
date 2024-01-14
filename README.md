@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full-stack hardware developer from Tokyo.
+I'm a full-stack DevOps ans hardware developer from Tokyo.
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20developer-onizuka)](https://github.com/developer-onizuka)
 
 
